@@ -1,0 +1,40 @@
+{
+    "Top--Opinion--Opinion": {
+        "indices": [
+            2763,
+            2569,
+            1411,
+            1333,
+            2691,
+            2213,
+            2757,
+            2941
+        ],
+        "sub-topic": {
+            "Top--Opinion--Opinion--Editorials": {
+                "indices": [
+                    1873,
+                    792,
+                    2781,
+                    83
+                ]
+            },
+            "Top--Opinion--Opinion--Letters": {
+                "indices": [
+                    2941,
+                    2213,
+                    3073,
+                    2757
+                ]
+            },
+            "Top--Opinion--Opinion--Op-Ed": {
+                "indices": [
+                    147,
+                    103,
+                    2998,
+                    1622
+                ]
+            }
+        }
+    }
+}

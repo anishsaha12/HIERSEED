@@ -1,0 +1,198 @@
+{
+    "Top--Features--Arts": {
+        "indices": [
+            2874,
+            3216,
+            6186,
+            8376,
+            10985,
+            1987,
+            4974,
+            8687
+        ],
+        "sub-topic": {
+            "Top--Features--Arts--Art and Design": {
+                "indices": [
+                    6136,
+                    1405,
+                    2615,
+                    11258
+                ]
+            },
+            "Top--Features--Arts--Dance": {
+                "indices": [
+                    4129,
+                    1148,
+                    5177,
+                    8687
+                ]
+            }
+        }
+    },
+    "Top--Features--Books": {
+        "indices": [
+            8085,
+            2524,
+            1531,
+            7462,
+            61,
+            8366,
+            8104,
+            7718
+        ],
+        "sub-topic": {
+            "Top--Features--Books--Book Reviews": {
+                "indices": [
+                    2421
+                ]
+            }
+        }
+    },
+    "Top--Features--Dining and Wine": {
+        "indices": [
+            3576
+        ]
+    },
+    "Top--Features--Home and Garden": {
+        "indices": [
+            2350,
+            613,
+            2561,
+            4332,
+            4333,
+            9447,
+            10312,
+            5250
+        ]
+    },
+    "Top--Features--Magazine": {
+        "indices": [
+            9417,
+            8182,
+            11276,
+            3783,
+            10109,
+            1636,
+            3440,
+            3928
+        ]
+    },
+    "Top--Features--Movies": {
+        "indices": [
+            10592,
+            6141,
+            5228,
+            3843,
+            10557,
+            11126,
+            8291,
+            3549
+        ],
+        "sub-topic": {
+            "Top--Features--Movies--News and Features": {
+                "indices": [
+                    3843,
+                    10592,
+                    10557,
+                    8291
+                ]
+            },
+            "Top--Features--Movies--Reviews": {
+                "indices": [
+                    6141
+                ]
+            }
+        }
+    },
+    "Top--Features--Style": {
+        "indices": [
+            7298,
+            10027,
+            8059,
+            2198,
+            1050,
+            1106,
+            1631,
+            8058
+        ],
+        "sub-topic": {
+            "Top--Features--Style--Fashion and Style": {
+                "indices": [
+                    2198,
+                    8059,
+                    1050,
+                    7298
+                ]
+            }
+        }
+    },
+    "Top--Features--Theater": {
+        "indices": [
+            4580,
+            5357,
+            6844,
+            5211,
+            2112,
+            11256,
+            9793,
+            4184
+        ],
+        "sub-topic": {
+            "Top--Features--Theater--News and Features": {
+                "indices": [
+                    2112,
+                    5211,
+                    5357,
+                    11256
+                ]
+            },
+            "Top--Features--Theater--Reviews": {
+                "indices": [
+                    4184
+                ]
+            }
+        }
+    },
+    "Top--Features--Travel": {
+        "indices": [
+            10747,
+            4181,
+            10049,
+            5717,
+            9610,
+            5998,
+            6393,
+            5299
+        ],
+        "sub-topic": {
+            "Top--Features--Travel--Guides": {
+                "indices": [
+                    6393,
+                    4181,
+                    5998,
+                    10747
+                ]
+            },
+            "Top--Features--Travel--Sunday Travel": {
+                "indices": [
+                    7674,
+                    1201,
+                    10626,
+                    974
+                ]
+            }
+        }
+    },
+    "Top--Features--Week in Review": {
+        "indices": [
+            8614,
+            424,
+            6819,
+            9475,
+            8192,
+            5351,
+            10276,
+            10993
+        ]
+    }
+}

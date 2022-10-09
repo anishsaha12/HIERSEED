@@ -1,0 +1,58 @@
+{
+    "Top--Classifieds--Job Market": {
+        "indices": [
+            432,
+            3348,
+            6355,
+            8261,
+            2106,
+            4986,
+            4835,
+            3082
+        ],
+        "sub-topic": {
+            "Top--Classifieds--Job Market--Job Categories": {
+                "indices": [
+                    8261,
+                    4986,
+                    6355,
+                    432
+                ]
+            }
+        }
+    },
+    "Top--Classifieds--Paid Death Notices": {
+        "indices": [
+            8248,
+            3576,
+            9402,
+            3832,
+            7526,
+            1972,
+            3247,
+            8878
+        ]
+    },
+    "Top--Classifieds--Real Estate": {
+        "indices": [
+            176,
+            3011,
+            2994,
+            7931,
+            6803,
+            4392,
+            8492,
+            431
+        ],
+        "sub-topic": {
+            "Top--Classifieds--Real Estate--Locations": {
+                "indices": [
+                    8492,
+                    7931,
+                    176,
+                    2994
+                ]
+            }
+        }
+    }
+}

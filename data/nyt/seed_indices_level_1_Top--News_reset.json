@@ -1,0 +1,440 @@
+{
+    "Top--News--Business": {
+        "indices": [
+            8721,
+            525,
+            9171,
+            9186,
+            7675,
+            5375,
+            7652,
+            7819
+        ],
+        "sub-topic": {
+            "Top--News--Business--Columns": {
+                "indices": [
+                    5905,
+                    7486,
+                    7196,
+                    3476
+                ]
+            },
+            "Top--News--Business--Markets": {
+                "indices": [
+                    3163,
+                    7440,
+                    9223,
+                    9340
+                ]
+            },
+            "Top--News--Business--Media and Advertising": {
+                "indices": [
+                    9178,
+                    1720,
+                    4557,
+                    2289
+                ]
+            },
+            "Top--News--Business--Small Business": {
+                "indices": [
+                    9965,
+                    8319,
+                    3917,
+                    2243
+                ]
+            },
+            "Top--News--Business--Your Money": {
+                "indices": [
+                    2647,
+                    856,
+                    1512,
+                    4436
+                ]
+            }
+        }
+    },
+    "Top--News--Corrections": {
+        "indices": [
+            9296,
+            826,
+            1558,
+            5359,
+            10036,
+            1256,
+            2090,
+            5119
+        ]
+    },
+    "Top--News--Education": {
+        "indices": [
+            5907,
+            7219,
+            4962,
+            2941,
+            1918,
+            3154,
+            9062,
+            3431
+        ]
+    },
+    "Top--News--Front Page": {
+        "indices": [
+            7371,
+            7182,
+            8876,
+            9207,
+            4476,
+            522,
+            5070,
+            3249
+        ]
+    },
+    "Top--News--Health": {
+        "indices": [
+            4265,
+            3603,
+            1905,
+            982,
+            7076,
+            6070,
+            4699,
+            501
+        ],
+        "sub-topic": {
+            "Top--News--Health--Diseases, Conditions, and Health Topics": {
+                "indices": [
+                    1905,
+                    4265,
+                    982,
+                    3603
+                ]
+            }
+        }
+    },
+    "Top--News--New York and Region": {
+        "indices": [
+            4415,
+            1604,
+            8880,
+            4925,
+            4842,
+            2691,
+            326,
+            543
+        ],
+        "sub-topic": {
+            "Top--News--New York and Region--Columns": {
+                "indices": [
+                    3614,
+                    1404,
+                    2778,
+                    2095
+                ]
+            },
+            "Top--News--New York and Region--Connecticut": {
+                "indices": [
+                    3360,
+                    4843,
+                    4842,
+                    2155
+                ]
+            },
+            "Top--News--New York and Region--Long Island": {
+                "indices": [
+                    3909,
+                    4422,
+                    9520,
+                    1111
+                ]
+            },
+            "Top--News--New York and Region--New Jersey": {
+                "indices": [
+                    5483,
+                    2691,
+                    7001,
+                    6390
+                ]
+            },
+            "Top--News--New York and Region--The City": {
+                "indices": [
+                    4925,
+                    1946,
+                    1604,
+                    7437
+                ]
+            },
+            "Top--News--New York and Region--Westchester": {
+                "indices": [
+                    326,
+                    3984,
+                    8114,
+                    4917
+                ]
+            }
+        }
+    },
+    "Top--News--Obituaries": {
+        "indices": [
+            1275,
+            5108,
+            8697,
+            7022,
+            10080,
+            3433,
+            10064,
+            5844
+        ]
+    },
+    "Top--News--Science": {
+        "indices": [
+            7607,
+            7526,
+            78,
+            9835,
+            3640,
+            6906,
+            9298,
+            3204
+        ],
+        "sub-topic": {
+            "Top--News--Science--Environment": {
+                "indices": [
+                    2821,
+                    1181,
+                    2604,
+                    8224
+                ]
+            }
+        }
+    },
+    "Top--News--Sports": {
+        "indices": [
+            10092,
+            5781,
+            9229,
+            4669,
+            4444,
+            1419,
+            6484,
+            4733
+        ],
+        "sub-topic": {
+            "Top--News--Sports--Baseball": {
+                "indices": [
+                    5325,
+                    9571,
+                    4578,
+                    7689
+                ]
+            },
+            "Top--News--Sports--Columns": {
+                "indices": [
+                    5058,
+                    7326,
+                    348,
+                    8025
+                ]
+            },
+            "Top--News--Sports--Hockey": {
+                "indices": [
+                    5551,
+                    7565,
+                    5282,
+                    1175
+                ]
+            },
+            "Top--News--Sports--Pro Basketball": {
+                "indices": [
+                    10092,
+                    9015,
+                    7218,
+                    1780
+                ]
+            },
+            "Top--News--Sports--Pro Football": {
+                "indices": [
+                    4669,
+                    4733,
+                    4110,
+                    1419
+                ]
+            }
+        }
+    },
+    "Top--News--Technology": {
+        "indices": [
+            9248,
+            8170,
+            6939,
+            9833,
+            1150,
+            1163,
+            5510,
+            4148
+        ],
+        "sub-topic": {
+            "Top--News--Technology--Circuits": {
+                "indices": [
+                    9248,
+                    1150,
+                    4148,
+                    6774
+                ]
+            }
+        }
+    },
+    "Top--News--U.S.": {
+        "indices": [
+            4536,
+            437,
+            950,
+            6815,
+            2178,
+            7197,
+            6351,
+            7040
+        ],
+        "sub-topic": {
+            "Top--News--U.S.--Mid-Atlantic": {
+                "indices": [
+                    8105,
+                    4888,
+                    7424,
+                    3911
+                ]
+            },
+            "Top--News--U.S.--Midwest": {
+                "indices": [
+                    5471,
+                    7809,
+                    4899,
+                    2614
+                ]
+            },
+            "Top--News--U.S.--New England": {
+                "indices": [
+                    42,
+                    4181,
+                    9172,
+                    4282
+                ]
+            },
+            "Top--News--U.S.--South": {
+                "indices": [
+                    3755,
+                    9828,
+                    1895,
+                    8083
+                ]
+            },
+            "Top--News--U.S.--Southwest": {
+                "indices": [
+                    8079,
+                    8959,
+                    7501,
+                    3634
+                ]
+            },
+            "Top--News--U.S.--U.S. States, Territories and Possessions": {
+                "indices": [
+                    437,
+                    8770,
+                    2178,
+                    589
+                ]
+            },
+            "Top--News--U.S.--West": {
+                "indices": [
+                    8148,
+                    5681,
+                    2103,
+                    9569
+                ]
+            }
+        }
+    },
+    "Top--News--Washington": {
+        "indices": [
+            845,
+            4439,
+            6209,
+            1160,
+            3508,
+            5061,
+            3908,
+            8151
+        ],
+        "sub-topic": {
+            "Top--News--Washington--Campaign 2004": {
+                "indices": [
+                    8151,
+                    2632,
+                    3623,
+                    845
+                ]
+            },
+            "Top--News--Washington--Campaign 2008": {
+                "indices": [
+                    1160,
+                    2971,
+                    10010,
+                    2389
+                ]
+            }
+        }
+    },
+    "Top--News--World": {
+        "indices": [
+            5686,
+            4170,
+            6635,
+            3666,
+            4929,
+            6290,
+            3234,
+            3611
+        ],
+        "sub-topic": {
+            "Top--News--World--Africa": {
+                "indices": [
+                    904,
+                    3947
+                ]
+            },
+            "Top--News--World--Americas": {
+                "indices": [
+                    562
+                ]
+            },
+            "Top--News--World--Asia Pacific": {
+                "indices": [
+                    7915
+                ]
+            },
+            "Top--News--World--Countries and Territories": {
+                "indices": [
+                    3852,
+                    9657,
+                    964,
+                    4012
+                ]
+            },
+            "Top--News--World--Europe": {
+                "indices": [
+                    7380,
+                    9630,
+                    6788,
+                    5810
+                ]
+            },
+            "Top--News--World--Middle East": {
+                "indices": [
+                    6635,
+                    4965,
+                    9336,
+                    10103
+                ]
+            }
+        }
+    }
+}

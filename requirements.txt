@@ -1,0 +1,9 @@
+emoji==1.4.2
+matplotlib==3.3.4
+nltk==3.6.1
+numpy==1.20.1
+pandas==1.2.4
+session_info==1.0.0
+sklearn==0.24.1
+torch==1.9.0+cu102
+transformers==2.1.1
