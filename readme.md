@@ -6,7 +6,7 @@ The source code used for **Seeded Hierarchical Clustering for Expert-Crafted Tax
 We use Python 3.8 or above. Before running, you need to first install the required packages by typing following commands:
 
 ```console
-$ pip3 install -r requirements.txt
+$ pip install -r requirements.txt
 ```
 
 Also, be sure to download 'punkt' in python:
